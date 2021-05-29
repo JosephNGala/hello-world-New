@@ -1,5 +1,6 @@
 # hello-world-New
 This is jut a test to ensure I still have hands on GitHub
+And I'm donna rock it
 
 We are going to talk about GIT and GITHUB
 And from here, We are going to move on and work on real life projects
